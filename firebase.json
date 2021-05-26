@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "geandersonlemonte",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
